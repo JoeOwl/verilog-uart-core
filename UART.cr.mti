@@ -1,0 +1,36 @@
+C:/Users/Youss/Downloads/UART_git/rtl/uart_rx.v {1 {vlog -work work -vopt -stats=none C:/Users/Youss/Downloads/UART_git/rtl/uart_rx.v
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module uart_rx
+
+Top level modules:
+	uart_rx
+
+} {} {}} C:/Users/Youss/Downloads/UART_git/tb/uart_rx_tb.v {1 {vlog -work work -vopt -stats=none C:/Users/Youss/Downloads/UART_git/tb/uart_rx_tb.v
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module uart_rx_tb
+
+Top level modules:
+	uart_rx_tb
+
+} {} {}} C:/Users/Youss/Downloads/UART_git/rtl/uart_top.v {1 {vlog -work work -vopt -stats=none C:/Users/Youss/Downloads/UART_git/rtl/uart_top.v
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module uart_top
+
+Top level modules:
+	uart_top
+
+} {} {}} C:/Users/Youss/Downloads/UART_git/rtl/serial_to_parallel.v {1 {vlog -work work -vopt -stats=none C:/Users/Youss/Downloads/UART_git/rtl/serial_to_parallel.v
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module serial_to_parallel
+
+Top level modules:
+	serial_to_parallel
+
+} {} {}} C:/Users/Youss/Downloads/UART_git/rtl/Edge_detector.v {1 {vlog -work work -vopt -stats=none C:/Users/Youss/Downloads/UART_git/rtl/Edge_detector.v
+QuestaSim-64 vlog 2024.1 Compiler 2024.02 Feb  1 2024
+-- Compiling module Edge_detector
+
+Top level modules:
+	Edge_detector
+
+} {} {}}
